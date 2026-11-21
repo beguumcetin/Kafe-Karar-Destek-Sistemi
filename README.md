@@ -50,3 +50,7 @@ kds/
 ## Limits
 
 This is a student prototype. The explainable methods were chosen on purpose over heavy models, and there is no database, authentication or deployment. The sign-in screen is a demo with sample users, not real authentication. The forecast is not validated against held-out days, and a year of data from one shop is a small base for the weekly seasonality it assumes. `docs/file_summary.md` still describes the forecast as a simple moving average from an earlier version; the code uses Holt-Winters as described above.
+
+## Contact
+
+Begüm Çetin · begumcetin22@gmail.com · [GitHub](https://github.com/beguumcetin)

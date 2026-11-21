@@ -50,3 +50,7 @@ kds/
 ## Sınırlar
 
 Bu bir öğrenci prototipidir. Ağır modeller yerine bilinçli olarak açıklanabilir yöntemler seçildi; veritabanı, kimlik doğrulama ve yayına alma yok. Giriş ekranı örnek kullanıcılarla çalışan bir demodur, gerçek kimlik doğrulama değildir. Tahmin, ayrılmış günler üzerinde doğrulanmadı ve tek bir dükkânın bir yıllık verisi, varsaydığı haftalık mevsimsellik için küçük bir temel. `docs/file_summary.md` hâlâ tahmini önceki sürümden kalma basit bir hareketli ortalama olarak anlatıyor; kod yukarıda anlatıldığı gibi Holt-Winters kullanıyor.
+
+## İletişim
+
+Begüm Çetin · begumcetin22@gmail.com · [GitHub](https://github.com/beguumcetin)
